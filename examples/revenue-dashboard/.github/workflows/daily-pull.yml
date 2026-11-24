@@ -1,0 +1,26 @@
+# Daily snapshot: run the pull, commit data/YYYY-MM-DD.json, and let the
+# hosting platform redeploy on the new commit. (Takes effect when this app is its own repo.)
+name: daily-pull
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 06:00 US Eastern
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/pull.mjs
+        env:
+          CRM_TOKEN: ${{ secrets.CRM_TOKEN }}   # used by the real pull; the example generator ignores it
+      - run: |
+          git config user.name "snapshot-bot"
+          git config user.email "snapshot-bot@users.noreply.github.com"
+          git add data/
+          git commit -m "Daily snapshot $(date -u +%F)" || echo "no change"
+          git push

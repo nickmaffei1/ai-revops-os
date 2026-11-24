@@ -1,0 +1,18 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          { "type": "command", "command": "python3 governance/prior_work_gate.py" }
+        ]
+      },
+      {
+        "matcher": "mcp__chat__send_message|mcp__chat__send_message_draft",
+        "hooks": [
+          { "type": "command", "command": "python3 governance/number_receipt_gate.py" }
+        ]
+      }
+    ]
+  }
+}

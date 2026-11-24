@@ -1,0 +1,4 @@
+# Config IDs that look like record IDs but are not records.
+# One per line, with a comment saying what it is. Never add a record ID here.
+1000001   # example: Enterprise sales pipeline
+1000002   # example: Closed Won stage

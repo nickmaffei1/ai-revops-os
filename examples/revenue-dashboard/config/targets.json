@@ -1,0 +1,13 @@
+{
+  "_note": "Fictional targets for Acme Research. In production this file is finance-signed: changed only from final finance figures, with the source and date noted here and an entry in CHANGELOG.",
+  "quarterNewArr": 600000,
+  "quarterSqos": 70,
+  "crmErrorRateTarget": 0.05,
+  "stageWeights": {
+    "Discovery": 0.1,
+    "Pricing": 0.25,
+    "Solution Validation": 0.45,
+    "Procurement": 0.7,
+    "Contract Out": 0.85
+  }
+}

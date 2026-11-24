@@ -1,0 +1,381 @@
+deal_id,period,outcome,stage_reached
+D0001,2025-H2 (before),lost,Demo
+D0002,2025-H2 (before),lost,Demo
+D0003,2025-H2 (before),lost,Demo
+D0004,2025-H2 (before),won,Closed Won
+D0005,2025-H2 (before),lost,Meeting Set
+D0006,2025-H2 (before),lost,Demo
+D0007,2025-H2 (before),won,Closed Won
+D0008,2025-H2 (before),lost,Solution Validation
+D0009,2025-H2 (before),lost,Demo
+D0010,2025-H2 (before),lost,Procurement
+D0011,2025-H2 (before),lost,Demo
+D0012,2025-H2 (before),lost,Meeting Set
+D0013,2025-H2 (before),lost,Demo
+D0014,2025-H2 (before),lost,Demo
+D0015,2025-H2 (before),lost,Solution Validation
+D0016,2025-H2 (before),lost,Pricing
+D0017,2025-H2 (before),lost,Demo
+D0018,2025-H2 (before),lost,Demo
+D0019,2025-H2 (before),won,Closed Won
+D0020,2025-H2 (before),lost,Pricing
+D0021,2025-H2 (before),lost,Demo
+D0022,2025-H2 (before),lost,Pricing
+D0023,2025-H2 (before),lost,Solution Validation
+D0024,2025-H2 (before),lost,Demo
+D0025,2025-H2 (before),lost,Pricing
+D0026,2025-H2 (before),lost,Solution Validation
+D0027,2025-H2 (before),lost,Procurement
+D0028,2025-H2 (before),lost,Demo
+D0029,2025-H2 (before),lost,Demo
+D0030,2025-H2 (before),lost,Meeting Set
+D0031,2025-H2 (before),lost,Solution Validation
+D0032,2025-H2 (before),lost,Solution Validation
+D0033,2025-H2 (before),lost,Pricing
+D0034,2025-H2 (before),lost,Pricing
+D0035,2025-H2 (before),lost,Solution Validation
+D0036,2025-H2 (before),lost,Pricing
+D0037,2025-H2 (before),lost,Demo
+D0038,2025-H2 (before),lost,Pricing
+D0039,2025-H2 (before),lost,Solution Validation
+D0040,2025-H2 (before),lost,Demo
+D0041,2025-H2 (before),lost,Meeting Set
+D0042,2025-H2 (before),lost,Demo
+D0043,2025-H2 (before),lost,Demo
+D0044,2025-H2 (before),lost,Demo
+D0045,2025-H2 (before),lost,Demo
+D0046,2025-H2 (before),lost,Demo
+D0047,2025-H2 (before),lost,Pricing
+D0048,2025-H2 (before),lost,Solution Validation
+D0049,2025-H2 (before),lost,Demo
+D0050,2025-H2 (before),lost,Demo
+D0051,2025-H2 (before),lost,Procurement
+D0052,2025-H2 (before),lost,Demo
+D0053,2025-H2 (before),lost,Demo
+D0054,2025-H2 (before),lost,Pricing
+D0055,2025-H2 (before),lost,Meeting Set
+D0056,2025-H2 (before),lost,Demo
+D0057,2025-H2 (before),lost,Procurement
+D0058,2025-H2 (before),lost,Pricing
+D0059,2025-H2 (before),lost,Pricing
+D0060,2025-H2 (before),won,Closed Won
+D0061,2025-H2 (before),lost,Solution Validation
+D0062,2025-H2 (before),lost,Solution Validation
+D0063,2025-H2 (before),lost,Demo
+D0064,2025-H2 (before),won,Closed Won
+D0065,2025-H2 (before),lost,Demo
+D0066,2025-H2 (before),won,Closed Won
+D0067,2025-H2 (before),lost,Demo
+D0068,2025-H2 (before),lost,Demo
+D0069,2025-H2 (before),won,Closed Won
+D0070,2025-H2 (before),lost,Demo
+D0071,2025-H2 (before),lost,Meeting Set
+D0072,2025-H2 (before),lost,Pricing
+D0073,2025-H2 (before),lost,Demo
+D0074,2025-H2 (before),lost,Demo
+D0075,2025-H2 (before),lost,Solution Validation
+D0076,2025-H2 (before),lost,Pricing
+D0077,2025-H2 (before),lost,Demo
+D0078,2025-H2 (before),won,Closed Won
+D0079,2025-H2 (before),lost,Demo
+D0080,2025-H2 (before),lost,Demo
+D0081,2025-H2 (before),won,Closed Won
+D0082,2025-H2 (before),lost,Pricing
+D0083,2025-H2 (before),lost,Pricing
+D0084,2025-H2 (before),won,Closed Won
+D0085,2025-H2 (before),lost,Procurement
+D0086,2025-H2 (before),lost,Pricing
+D0087,2025-H2 (before),lost,Demo
+D0088,2025-H2 (before),lost,Solution Validation
+D0089,2025-H2 (before),lost,Solution Validation
+D0090,2025-H2 (before),lost,Demo
+D0091,2025-H2 (before),lost,Procurement
+D0092,2025-H2 (before),lost,Solution Validation
+D0093,2025-H2 (before),lost,Solution Validation
+D0094,2025-H2 (before),lost,Pricing
+D0095,2025-H2 (before),lost,Meeting Set
+D0096,2025-H2 (before),won,Closed Won
+D0097,2025-H2 (before),lost,Demo
+D0098,2025-H2 (before),lost,Procurement
+D0099,2025-H2 (before),lost,Procurement
+D0100,2025-H2 (before),lost,Procurement
+D0101,2025-H2 (before),lost,Demo
+D0102,2025-H2 (before),lost,Demo
+D0103,2025-H2 (before),lost,Pricing
+D0104,2025-H2 (before),lost,Solution Validation
+D0105,2025-H2 (before),lost,Pricing
+D0106,2025-H2 (before),lost,Demo
+D0107,2025-H2 (before),lost,Procurement
+D0108,2025-H2 (before),lost,Solution Validation
+D0109,2025-H2 (before),lost,Demo
+D0110,2025-H2 (before),lost,Demo
+D0111,2025-H2 (before),lost,Procurement
+D0112,2025-H2 (before),lost,Demo
+D0113,2025-H2 (before),lost,Solution Validation
+D0114,2025-H2 (before),lost,Demo
+D0115,2025-H2 (before),lost,Procurement
+D0116,2025-H2 (before),lost,Demo
+D0117,2025-H2 (before),lost,Procurement
+D0118,2025-H2 (before),lost,Demo
+D0119,2025-H2 (before),lost,Demo
+D0120,2025-H2 (before),won,Closed Won
+D0121,2025-H2 (before),lost,Pricing
+D0122,2025-H2 (before),lost,Procurement
+D0123,2025-H2 (before),lost,Solution Validation
+D0124,2025-H2 (before),lost,Demo
+D0125,2025-H2 (before),lost,Demo
+D0126,2025-H2 (before),lost,Pricing
+D0127,2025-H2 (before),lost,Demo
+D0128,2025-H2 (before),lost,Procurement
+D0129,2025-H2 (before),lost,Pricing
+D0130,2025-H2 (before),lost,Procurement
+D0131,2025-H2 (before),lost,Procurement
+D0132,2025-H2 (before),lost,Pricing
+D0133,2025-H2 (before),lost,Meeting Set
+D0134,2025-H2 (before),lost,Demo
+D0135,2025-H2 (before),won,Closed Won
+D0136,2025-H2 (before),lost,Demo
+D0137,2025-H2 (before),lost,Solution Validation
+D0138,2025-H2 (before),lost,Demo
+D0139,2025-H2 (before),lost,Pricing
+D0140,2025-H2 (before),lost,Demo
+D0141,2025-H2 (before),lost,Demo
+D0142,2025-H2 (before),lost,Solution Validation
+D0143,2025-H2 (before),lost,Pricing
+D0144,2025-H2 (before),lost,Procurement
+D0145,2025-H2 (before),lost,Pricing
+D0146,2025-H2 (before),lost,Pricing
+D0147,2025-H2 (before),lost,Pricing
+D0148,2025-H2 (before),lost,Pricing
+D0149,2025-H2 (before),lost,Pricing
+D0150,2025-H2 (before),lost,Procurement
+D0151,2025-H2 (before),lost,Pricing
+D0152,2025-H2 (before),lost,Solution Validation
+D0153,2025-H2 (before),lost,Demo
+D0154,2025-H2 (before),lost,Demo
+D0155,2025-H2 (before),lost,Demo
+D0156,2025-H2 (before),lost,Solution Validation
+D0157,2025-H2 (before),lost,Demo
+D0158,2025-H2 (before),lost,Pricing
+D0159,2025-H2 (before),lost,Solution Validation
+D0160,2025-H2 (before),lost,Demo
+D0161,2025-H2 (before),lost,Demo
+D0162,2025-H2 (before),lost,Procurement
+D0163,2025-H2 (before),lost,Demo
+D0164,2025-H2 (before),lost,Pricing
+D0165,2025-H2 (before),lost,Demo
+D0166,2025-H2 (before),lost,Solution Validation
+D0167,2025-H2 (before),won,Closed Won
+D0168,2025-H2 (before),lost,Demo
+D0169,2025-H2 (before),won,Closed Won
+D0170,2025-H2 (before),lost,Pricing
+D0171,2025-H2 (before),lost,Demo
+D0172,2025-H2 (before),lost,Solution Validation
+D0173,2025-H2 (before),lost,Demo
+D0174,2025-H2 (before),lost,Meeting Set
+D0175,2025-H2 (before),lost,Demo
+D0176,2025-H2 (before),lost,Demo
+D0177,2025-H2 (before),lost,Solution Validation
+D0178,2025-H2 (before),lost,Demo
+D0179,2025-H2 (before),lost,Pricing
+D0180,2025-H2 (before),lost,Demo
+D0181,2025-H2 (before),won,Closed Won
+D0182,2025-H2 (before),lost,Demo
+D0183,2025-H2 (before),won,Closed Won
+D0184,2025-H2 (before),lost,Pricing
+D0185,2025-H2 (before),lost,Demo
+D0186,2025-H2 (before),lost,Demo
+D0187,2025-H2 (before),lost,Pricing
+D0188,2025-H2 (before),lost,Pricing
+D0189,2025-H2 (before),lost,Demo
+D0190,2025-H2 (before),lost,Pricing
+D0191,2025-H2 (before),lost,Demo
+D0192,2025-H2 (before),lost,Demo
+D0193,2025-H2 (before),lost,Demo
+D0194,2025-H2 (before),lost,Solution Validation
+D0195,2025-H2 (before),lost,Pricing
+D0196,2025-H2 (before),lost,Demo
+D0197,2025-H2 (before),won,Closed Won
+D0198,2025-H2 (before),lost,Meeting Set
+D0199,2025-H2 (before),lost,Pricing
+D0200,2025-H2 (before),lost,Pricing
+D0201,2025-H2 (before),lost,Demo
+D0202,2025-H2 (before),lost,Demo
+D0203,2025-H2 (before),lost,Solution Validation
+D0204,2025-H2 (before),lost,Pricing
+D0205,2025-H2 (before),lost,Procurement
+D0206,2025-H2 (before),lost,Solution Validation
+D0207,2025-H2 (before),lost,Pricing
+D0208,2025-H2 (before),lost,Demo
+D0209,2025-H2 (before),won,Closed Won
+D0210,2025-H2 (before),lost,Demo
+D0211,2025-H2 (before),lost,Demo
+D0212,2025-H2 (before),lost,Demo
+D0213,2025-H2 (before),lost,Solution Validation
+D0214,2025-H2 (before),lost,Demo
+D0215,2025-H2 (before),lost,Demo
+D0216,2025-H2 (before),lost,Demo
+D0217,2025-H2 (before),lost,Demo
+D0218,2025-H2 (before),lost,Procurement
+D0219,2025-H2 (before),lost,Demo
+D0220,2025-H2 (before),lost,Demo
+D0221,2026-H1 (after),lost,Meeting Set
+D0222,2026-H1 (after),lost,Demo
+D0223,2026-H1 (after),lost,Meeting Set
+D0224,2026-H1 (after),lost,Meeting Set
+D0225,2026-H1 (after),lost,Meeting Set
+D0226,2026-H1 (after),lost,Meeting Set
+D0227,2026-H1 (after),won,Closed Won
+D0228,2026-H1 (after),lost,Meeting Set
+D0229,2026-H1 (after),lost,Demo
+D0230,2026-H1 (after),lost,Pricing
+D0231,2026-H1 (after),lost,Solution Validation
+D0232,2026-H1 (after),lost,Meeting Set
+D0233,2026-H1 (after),lost,Meeting Set
+D0234,2026-H1 (after),lost,Pricing
+D0235,2026-H1 (after),won,Closed Won
+D0236,2026-H1 (after),lost,Solution Validation
+D0237,2026-H1 (after),lost,Pricing
+D0238,2026-H1 (after),lost,Meeting Set
+D0239,2026-H1 (after),lost,Demo
+D0240,2026-H1 (after),lost,Solution Validation
+D0241,2026-H1 (after),lost,Pricing
+D0242,2026-H1 (after),lost,Pricing
+D0243,2026-H1 (after),lost,Meeting Set
+D0244,2026-H1 (after),won,Closed Won
+D0245,2026-H1 (after),won,Closed Won
+D0246,2026-H1 (after),lost,Meeting Set
+D0247,2026-H1 (after),lost,Pricing
+D0248,2026-H1 (after),lost,Pricing
+D0249,2026-H1 (after),lost,Demo
+D0250,2026-H1 (after),won,Closed Won
+D0251,2026-H1 (after),lost,Solution Validation
+D0252,2026-H1 (after),lost,Demo
+D0253,2026-H1 (after),lost,Meeting Set
+D0254,2026-H1 (after),lost,Meeting Set
+D0255,2026-H1 (after),won,Closed Won
+D0256,2026-H1 (after),lost,Pricing
+D0257,2026-H1 (after),lost,Pricing
+D0258,2026-H1 (after),lost,Demo
+D0259,2026-H1 (after),lost,Demo
+D0260,2026-H1 (after),lost,Solution Validation
+D0261,2026-H1 (after),lost,Pricing
+D0262,2026-H1 (after),won,Closed Won
+D0263,2026-H1 (after),lost,Meeting Set
+D0264,2026-H1 (after),lost,Meeting Set
+D0265,2026-H1 (after),lost,Meeting Set
+D0266,2026-H1 (after),won,Closed Won
+D0267,2026-H1 (after),lost,Pricing
+D0268,2026-H1 (after),lost,Pricing
+D0269,2026-H1 (after),lost,Demo
+D0270,2026-H1 (after),lost,Demo
+D0271,2026-H1 (after),won,Closed Won
+D0272,2026-H1 (after),lost,Meeting Set
+D0273,2026-H1 (after),lost,Procurement
+D0274,2026-H1 (after),won,Closed Won
+D0275,2026-H1 (after),lost,Solution Validation
+D0276,2026-H1 (after),lost,Demo
+D0277,2026-H1 (after),lost,Meeting Set
+D0278,2026-H1 (after),lost,Meeting Set
+D0279,2026-H1 (after),lost,Meeting Set
+D0280,2026-H1 (after),lost,Procurement
+D0281,2026-H1 (after),won,Closed Won
+D0282,2026-H1 (after),lost,Demo
+D0283,2026-H1 (after),lost,Pricing
+D0284,2026-H1 (after),lost,Solution Validation
+D0285,2026-H1 (after),lost,Meeting Set
+D0286,2026-H1 (after),won,Closed Won
+D0287,2026-H1 (after),lost,Demo
+D0288,2026-H1 (after),lost,Meeting Set
+D0289,2026-H1 (after),lost,Meeting Set
+D0290,2026-H1 (after),lost,Meeting Set
+D0291,2026-H1 (after),lost,Solution Validation
+D0292,2026-H1 (after),won,Closed Won
+D0293,2026-H1 (after),lost,Pricing
+D0294,2026-H1 (after),lost,Meeting Set
+D0295,2026-H1 (after),lost,Meeting Set
+D0296,2026-H1 (after),lost,Pricing
+D0297,2026-H1 (after),lost,Demo
+D0298,2026-H1 (after),lost,Meeting Set
+D0299,2026-H1 (after),won,Closed Won
+D0300,2026-H1 (after),lost,Meeting Set
+D0301,2026-H1 (after),lost,Meeting Set
+D0302,2026-H1 (after),lost,Demo
+D0303,2026-H1 (after),lost,Meeting Set
+D0304,2026-H1 (after),lost,Solution Validation
+D0305,2026-H1 (after),lost,Pricing
+D0306,2026-H1 (after),lost,Procurement
+D0307,2026-H1 (after),lost,Pricing
+D0308,2026-H1 (after),won,Closed Won
+D0309,2026-H1 (after),lost,Demo
+D0310,2026-H1 (after),lost,Pricing
+D0311,2026-H1 (after),lost,Meeting Set
+D0312,2026-H1 (after),lost,Meeting Set
+D0313,2026-H1 (after),lost,Meeting Set
+D0314,2026-H1 (after),lost,Pricing
+D0315,2026-H1 (after),lost,Meeting Set
+D0316,2026-H1 (after),lost,Meeting Set
+D0317,2026-H1 (after),lost,Meeting Set
+D0318,2026-H1 (after),lost,Meeting Set
+D0319,2026-H1 (after),lost,Solution Validation
+D0320,2026-H1 (after),lost,Meeting Set
+D0321,2026-H1 (after),lost,Procurement
+D0322,2026-H1 (after),lost,Meeting Set
+D0323,2026-H1 (after),lost,Meeting Set
+D0324,2026-H1 (after),lost,Meeting Set
+D0325,2026-H1 (after),lost,Meeting Set
+D0326,2026-H1 (after),lost,Solution Validation
+D0327,2026-H1 (after),lost,Meeting Set
+D0328,2026-H1 (after),lost,Demo
+D0329,2026-H1 (after),lost,Meeting Set
+D0330,2026-H1 (after),won,Closed Won
+D0331,2026-H1 (after),lost,Procurement
+D0332,2026-H1 (after),won,Closed Won
+D0333,2026-H1 (after),lost,Pricing
+D0334,2026-H1 (after),lost,Meeting Set
+D0335,2026-H1 (after),lost,Meeting Set
+D0336,2026-H1 (after),lost,Demo
+D0337,2026-H1 (after),lost,Solution Validation
+D0338,2026-H1 (after),lost,Meeting Set
+D0339,2026-H1 (after),won,Closed Won
+D0340,2026-H1 (after),lost,Solution Validation
+D0341,2026-H1 (after),lost,Pricing
+D0342,2026-H1 (after),won,Closed Won
+D0343,2026-H1 (after),lost,Procurement
+D0344,2026-H1 (after),lost,Solution Validation
+D0345,2026-H1 (after),lost,Meeting Set
+D0346,2026-H1 (after),won,Closed Won
+D0347,2026-H1 (after),lost,Demo
+D0348,2026-H1 (after),lost,Procurement
+D0349,2026-H1 (after),lost,Pricing
+D0350,2026-H1 (after),lost,Demo
+D0351,2026-H1 (after),lost,Meeting Set
+D0352,2026-H1 (after),lost,Meeting Set
+D0353,2026-H1 (after),lost,Pricing
+D0354,2026-H1 (after),lost,Meeting Set
+D0355,2026-H1 (after),lost,Pricing
+D0356,2026-H1 (after),lost,Meeting Set
+D0357,2026-H1 (after),won,Closed Won
+D0358,2026-H1 (after),lost,Pricing
+D0359,2026-H1 (after),lost,Meeting Set
+D0360,2026-H1 (after),lost,Meeting Set
+D0361,2026-H1 (after),lost,Demo
+D0362,2026-H1 (after),lost,Pricing
+D0363,2026-H1 (after),lost,Demo
+D0364,2026-H1 (after),lost,Meeting Set
+D0365,2026-H1 (after),lost,Pricing
+D0366,2026-H1 (after),lost,Meeting Set
+D0367,2026-H1 (after),lost,Pricing
+D0368,2026-H1 (after),lost,Meeting Set
+D0369,2026-H1 (after),lost,Procurement
+D0370,2026-H1 (after),lost,Meeting Set
+D0371,2026-H1 (after),lost,Demo
+D0372,2026-H1 (after),lost,Meeting Set
+D0373,2026-H1 (after),lost,Pricing
+D0374,2026-H1 (after),lost,Meeting Set
+D0375,2026-H1 (after),lost,Meeting Set
+D0376,2026-H1 (after),lost,Meeting Set
+D0377,2026-H1 (after),lost,Solution Validation
+D0378,2026-H1 (after),lost,Procurement
+D0379,2026-H1 (after),lost,Meeting Set
+D0380,2026-H1 (after),lost,Meeting Set

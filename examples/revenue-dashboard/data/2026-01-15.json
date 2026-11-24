@@ -1,0 +1,381 @@
+{
+ "company": "Acme Research",
+ "pulledAt": "2026-11-24T21:14:09.788Z",
+ "asOfDate": "2026-01-15",
+ "quarter": {
+  "label": "2026-Q1",
+  "start": "2026-01-01",
+  "end": "2026-03-31"
+ },
+ "funnel": [
+  {
+   "month": "2025-08",
+   "mqls": 75,
+   "sals": 21,
+   "sqos": 11,
+   "won": 2,
+   "wonArr": 56000
+  },
+  {
+   "month": "2025-09",
+   "mqls": 109,
+   "sals": 22,
+   "sqos": 11,
+   "won": 2,
+   "wonArr": 68000
+  },
+  {
+   "month": "2025-10",
+   "mqls": 101,
+   "sals": 19,
+   "sqos": 11,
+   "won": 2,
+   "wonArr": 74000
+  },
+  {
+   "month": "2025-11",
+   "mqls": 88,
+   "sals": 22,
+   "sqos": 12,
+   "won": 3,
+   "wonArr": 66000
+  },
+  {
+   "month": "2025-12",
+   "mqls": 85,
+   "sals": 20,
+   "sqos": 12,
+   "won": 2,
+   "wonArr": 52000
+  },
+  {
+   "month": "2026-01",
+   "mqls": 105,
+   "sals": 28,
+   "sqos": 18,
+   "won": 3,
+   "wonArr": 75000
+  }
+ ],
+ "cohorts": [
+  {
+   "month": "2025-08",
+   "mqls": 75,
+   "salWithin30": 12,
+   "sqoWithin30OfSal": 6,
+   "mature": true
+  },
+  {
+   "month": "2025-09",
+   "mqls": 109,
+   "salWithin30": 24,
+   "sqoWithin30OfSal": 12,
+   "mature": true
+  },
+  {
+   "month": "2025-10",
+   "mqls": 101,
+   "salWithin30": 22,
+   "sqoWithin30OfSal": 11,
+   "mature": true
+  },
+  {
+   "month": "2025-11",
+   "mqls": 88,
+   "salWithin30": 15,
+   "sqoWithin30OfSal": 8,
+   "mature": true
+  },
+  {
+   "month": "2025-12",
+   "mqls": 85,
+   "salWithin30": 16,
+   "sqoWithin30OfSal": 9,
+   "mature": true
+  },
+  {
+   "month": "2026-01",
+   "mqls": 105,
+   "salWithin30": 19,
+   "sqoWithin30OfSal": 12,
+   "mature": false
+  }
+ ],
+ "openDeals": [
+  {
+   "id": "D-1000",
+   "name": "Northwind (example)",
+   "stage": "Contract Out",
+   "owner": "AE 3",
+   "amount": 26000,
+   "closeDate": "2026-04-23"
+  },
+  {
+   "id": "D-1001",
+   "name": "Bluefin (example)",
+   "stage": "Solution Validation",
+   "owner": "AE 1",
+   "amount": 35000,
+   "closeDate": "2026-03-25"
+  },
+  {
+   "id": "D-1002",
+   "name": "Larkspur (example)",
+   "stage": "Solution Validation",
+   "owner": "AE 2",
+   "amount": 60000,
+   "closeDate": "2026-05-25"
+  },
+  {
+   "id": "D-1003",
+   "name": "Copperline (example)",
+   "stage": "Procurement",
+   "owner": "AE 2",
+   "amount": 77000,
+   "closeDate": "2026-04-21"
+  },
+  {
+   "id": "D-1004",
+   "name": "Halcyon (example)",
+   "stage": "Discovery",
+   "owner": "AE 2",
+   "amount": 86000,
+   "closeDate": "2025-12-26"
+  },
+  {
+   "id": "D-1005",
+   "name": "Meridian (example)",
+   "stage": "Contract Out",
+   "owner": "AE 2",
+   "amount": 30000,
+   "closeDate": "2026-01-23"
+  },
+  {
+   "id": "D-1006",
+   "name": "Tidewater (example)",
+   "stage": "Contract Out",
+   "owner": "AE 2",
+   "amount": 38000,
+   "closeDate": "2025-12-25"
+  },
+  {
+   "id": "D-1007",
+   "name": "Granite & Co (example)",
+   "stage": "Pricing",
+   "owner": "AE 2",
+   "amount": 15000,
+   "closeDate": "2026-03-24"
+  },
+  {
+   "id": "D-1008",
+   "name": "Brightpath (example)",
+   "stage": "Pricing",
+   "owner": "AE 1",
+   "amount": 51000,
+   "closeDate": "2026-01-28"
+  },
+  {
+   "id": "D-1009",
+   "name": "Fernhill (example)",
+   "stage": "Contract Out",
+   "owner": "AE 2",
+   "amount": 87000,
+   "closeDate": "2026-01-05"
+  },
+  {
+   "id": "D-1010",
+   "name": "Quarry Labs (example)",
+   "stage": "Discovery",
+   "owner": "AE 3",
+   "amount": 19000,
+   "closeDate": "2026-02-24"
+  },
+  {
+   "id": "D-1011",
+   "name": "Ironwood (example)",
+   "stage": "Pricing",
+   "owner": "AE 3",
+   "amount": 67000,
+   "closeDate": "2025-12-28"
+  },
+  {
+   "id": "D-1012",
+   "name": "Sunmark (example)",
+   "stage": "Solution Validation",
+   "owner": "AE 3",
+   "amount": 45000,
+   "closeDate": "2026-05-30"
+  },
+  {
+   "id": "D-1013",
+   "name": "Kestrel (example)",
+   "stage": "Discovery",
+   "owner": "AE 2",
+   "amount": 39000,
+   "closeDate": "2026-02-20"
+  },
+  {
+   "id": "D-1014",
+   "name": "Oakridge (example)",
+   "stage": "Procurement",
+   "owner": "AE 1",
+   "amount": 14000,
+   "closeDate": "2026-03-20"
+  },
+  {
+   "id": "D-1015",
+   "name": "Lumen Works (example)",
+   "stage": "Pricing",
+   "owner": "AE 1",
+   "amount": 33000,
+   "closeDate": "2026-02-08"
+  },
+  {
+   "id": "D-1016",
+   "name": "Pinecrest (example)",
+   "stage": "Solution Validation",
+   "owner": "AE 2",
+   "amount": 52000,
+   "closeDate": "2026-01-08"
+  },
+  {
+   "id": "D-1017",
+   "name": "Redwater (example)",
+   "stage": "Procurement",
+   "owner": "AE 2",
+   "amount": 69000,
+   "closeDate": "2026-05-31"
+  },
+  {
+   "id": "D-1018",
+   "name": "Silverline (example)",
+   "stage": "Discovery",
+   "owner": "AE 1",
+   "amount": 30000,
+   "closeDate": "2026-04-01"
+  },
+  {
+   "id": "D-1019",
+   "name": "Westfield (example)",
+   "stage": "Procurement",
+   "owner": "AE 1",
+   "amount": 81000,
+   "closeDate": "2026-02-16"
+  },
+  {
+   "id": "D-1020",
+   "name": "Harborview (example)",
+   "stage": "Discovery",
+   "owner": "AE 3",
+   "amount": 37000,
+   "closeDate": "2026-03-27"
+  },
+  {
+   "id": "D-1021",
+   "name": "Aspen Analytics (example)",
+   "stage": "Procurement",
+   "owner": "AE 2",
+   "amount": 49000,
+   "closeDate": "2026-04-25"
+  }
+ ],
+ "qtdWonArr": 75000,
+ "crmHealth": {
+  "groups": [
+   {
+    "group": "Contacts",
+    "checked": 42000,
+    "checks": [
+     {
+      "name": "Missing email or bounced",
+      "issues": 901
+     },
+     {
+      "name": "Missing lifecycle stage",
+      "issues": 420
+     },
+     {
+      "name": "MQL without source",
+      "issues": 157
+     }
+    ]
+   },
+   {
+    "group": "Companies",
+    "checked": 9800,
+    "checks": [
+     {
+      "name": "No website domain",
+      "issues": 609
+     },
+     {
+      "name": "Customer with no contract",
+      "issues": 9
+     }
+    ]
+   },
+   {
+    "group": "Deals",
+    "checked": 640,
+    "checks": [
+     {
+      "name": "Open and past close date",
+      "issues": 15
+     },
+     {
+      "name": "Won with no ARR",
+      "issues": 3
+     },
+     {
+      "name": "Opportunity with no source",
+      "issues": 0
+     }
+    ]
+   },
+   {
+    "group": "Customers",
+    "checked": 310,
+    "checks": [
+     {
+      "name": "Customer label disagrees with billing",
+      "issues": 10
+     }
+    ]
+   }
+  ],
+  "history": [
+   {
+    "date": "2025-11-27",
+    "rate": 19.78
+   },
+   {
+    "date": "2025-12-04",
+    "rate": 17.89
+   },
+   {
+    "date": "2025-12-11",
+    "rate": 15.96
+   },
+   {
+    "date": "2025-12-18",
+    "rate": 14.04
+   },
+   {
+    "date": "2025-12-25",
+    "rate": 11.86
+   },
+   {
+    "date": "2026-01-01",
+    "rate": 10.33
+   },
+   {
+    "date": "2026-01-08",
+    "rate": 8.18
+   },
+   {
+    "date": "2026-01-15",
+    "rate": 6.66
+   }
+  ]
+ }
+}

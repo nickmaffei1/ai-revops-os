@@ -1,0 +1,21 @@
+# Review routing: GitHub requests a review from the owner of any path a PR touches.
+# Keep in sync with config/owners.json, which drives the Owner chip on each page.
+# (GitHub reads this file at a repo's root .github/; it takes effect when this app is its own repo.)
+
+# Definitions and the data engine: RevOps, with a second reviewer on the pull script
+rules.md                     @acme/revops
+scripts/                     @acme/revops @acme/demand-gen
+app/lib/model.ts             @acme/revops
+
+# Finance-signed targets: finance plus RevOps
+config/targets.json          @acme/finance @acme/revops
+
+# Pages
+app/page.tsx                 @acme/revops
+app/funnel/                  @acme/demand-gen
+app/forecast/                @acme/sales
+app/data-quality/            @acme/revops
+
+# Ownership map itself
+config/owners.json           @acme/revops
+.github/CODEOWNERS           @acme/revops

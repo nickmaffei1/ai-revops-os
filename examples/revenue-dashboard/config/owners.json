@@ -1,0 +1,8 @@
+{
+  "_comment": "Who answers for each page's numbers. Drives the Owner chip in every page header. Keep in sync with .github/CODEOWNERS, which routes reviews of each page's code to its owner.",
+  "exec-summary": { "owner": "Head of RevOps", "role": "RevOps" },
+  "funnel": { "owner": "Demand Gen Lead", "role": "Demand Gen" },
+  "forecast": { "owner": "Head of Sales", "role": "Revenue" },
+  "data-quality": { "owner": "Head of RevOps", "role": "RevOps" },
+  "definitions": { "owner": "Head of RevOps", "role": "RevOps" }
+}
